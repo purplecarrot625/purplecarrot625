@@ -10,7 +10,7 @@
 - 💜 **Do fairies have tails?**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/jiaweiluan">
+<a href="[https://www.linkedin.com/jiaweiluan](https://www.linkedin.com/in/jiaweiluan/)">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp;
 <p align="left">
