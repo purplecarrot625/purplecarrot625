@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 I’m currently working on **PA-GPT**
 
-- 🌱 I’m currently learning **LLMs, AIGC, Vue.js**
+- 🌱 I’m currently learning **LLMs, AIGC, React.js, Vue.js**
 
 - 📫 How to reach me **luanjiawe@gmail.com**
 
