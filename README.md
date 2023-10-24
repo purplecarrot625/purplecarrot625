@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 I’m currently working on **Climate tech handbook**
 
-- 🌱 I’m currently learning **LLMs, AIGC, React.js, Vue.js**
+- 🌱 I’m currently learning **LLMs, AIGC, React.js, Node.js**
 
 - 📫 How to reach me **luanjiawe@gmail.com**
 
