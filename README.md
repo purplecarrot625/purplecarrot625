@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiawei(Wynter)</h1>
 <h3 align="center">A passionate CS student at OSU</h3>
 
-- 👩🏻‍💻 I’m currently working on **PA-GPT**
+- 👩🏻‍💻 I’m currently working on **Climate tech handbook**
 
 - 🌱 I’m currently learning **LLMs, AIGC, React.js, Vue.js**
 
